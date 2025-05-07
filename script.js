@@ -51,7 +51,9 @@ const generateHTML = (images) => {
                     <i class="uil uil-import"></i>
                 </button>
             </div>
-        </li>`
+        </li>
+        <script async="async" data-cfasync="false" src="//pl26582511.profitableratecpm.com/f739bd63877835dd0e07b925b0fb3121/invoke.js"></script>
+<div id="container-f739bd63877835dd0e07b925b0fb3121"></div>`
     ).join("");
 }
 
